@@ -1,4 +1,2 @@
-# PokeBot
-AI Bot/Agent made to play through and beat Pokémon Emerald.
-Future Plans: 
-Extend scope of bot to any Pokémon game and/or ROM hack.
+# NuzlockeMap
+Web app to keep track of and manage nuzlocke runs in any main line Pokemon game.
